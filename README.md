@@ -36,7 +36,6 @@ url={https://openreview.net/forum?id=LONd7ACEjy}
 }
 ```
 
-## Acknowledgments
 
 The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defence),[Random Color Erasing](https://github.com/finger-monkey/Data-Augmentation) and [UAP-Retrieval](https://github.com/theFool32/UAP_retrieval) and 
 if you use our code, please cite their paper.
