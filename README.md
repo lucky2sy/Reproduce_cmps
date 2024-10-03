@@ -3,7 +3,7 @@
 
 
 
-## [Paper](pdfs/XXXX.pdf)
+## [Paper](pdfs/XXXX.pdf)      https://arxiv.org/pdf/2401.10090
 
 ## Requirements:
 * python 3.7
