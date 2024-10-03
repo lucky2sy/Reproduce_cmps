@@ -67,10 +67,3 @@ if you use our code, please cite their paper.
 }
 ```
 
-
-
-
-## Contact Me
-
-Email: fmonkey625@gmail.com
-
